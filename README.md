@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeong-ah313 
-- 👀 I’m interested in maybe coding?
-- 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ The programming languages I can handle include python, java, C, R, javaScript, SQL, etc.
+- 👀 The language I handle the best is python
+- 🌱 My blog address: https://blog.naver.com/ajs8809
 - 📫 How to reach me ajs8809@naver.com
 
 <!---
