@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeong-ah313 
-- 💞️ The programming languages I can handle include python, java, C, R, javaScript, SQL, Mathematica etc.
+- 💞️ The programming languages I can handle include python, C, R, javaScript, SQL, Mathematica etc.
 - 👀 The language I handle the best is python
 - 🌱 My blog address: https://blog.naver.com/ajs8809
 - 🌱 My YouTube address: https://www.youtube.com/channel/UCf5492ejA9t_LmAsFn_-SvA
